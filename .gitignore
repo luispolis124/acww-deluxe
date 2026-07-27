@@ -1,0 +1,14 @@
+# Nintendo DS ROMs & Binaries (Copyright Protection)
+*.nds
+*.bin
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo

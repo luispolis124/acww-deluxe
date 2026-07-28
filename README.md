@@ -36,4 +36,5 @@ To play the mod, you will need:
 
 ## 📜 Credits & Acknowledgments
 * Inspired by great community projects like *Animal Crossing Deluxe* (Cuyler) and *City Folk* (Aurum).
+* Special thanks to **TheGag96** for the **acww-hax** repository, used for technical foundations and game code modifications.
 * Developed by the community and fans of the franchise.

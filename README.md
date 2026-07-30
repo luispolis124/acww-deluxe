@@ -11,15 +11,23 @@ Official repository for **Animal Crossing Wild World Deluxe**. Contains only pat
 ## 🛠️ How to Apply the Patch
 To play the mod, you will need:
  1. A clean ROM of *Animal Crossing: Wild World* (US/EU version).
- 2. A patching tool (such as **DeltaPatcher**, **xdelta3**, or web-based patchers).
-### Step-by-Step Guide:
- 1. Download the latest patch file (.xdelta) from the Releases section.
- 2. Download a patching utility (e.g., **DeltaPatcher** or use **xdelta3** in the terminal).
- 3. Open your patching tool:
- * **Original file / ROM:** Select your clean *Animal Crossing: Wild World* NDS ROM.
- * **Patch:** Select the downloaded mod patch file (acww-deluxe.xdelta) from this repository.
- * **Apply Patch:** Click the apply button to generate your modified ROM (rom_final.nds).
- 4. Run the patched ROM on your Nintendo DS flashcard (like R4) or an emulator (like MelonDS, DeSmuME, or DrStic).
+ 2. A patching tool (such as **DeltaPatcher**, **xdelta3**, or mobile/web-based patchers like **UniPatcher**).
+### Step-by-Step Guide (PC & Mobile):
+#### Option 1: On Mobile (Android)
+ 1. Download an application like **UniPatcher** from the Google Play Store.
+ 2. Ensure you have your clean *Animal Crossing: Wild World* ROM and the mod patch file (acww-deluxe.xdelta) saved on your device.
+ 3. Open **UniPatcher**:
+   * **Patch file:** Select acww-deluxe.xdelta.
+   * **ROM file:** Select your clean NDS ROM.
+   * **Save as:** Choose your output destination (add .nds at the end, e.g., rom_final.nds).
+ 4. Tap **Apply patch**.
+#### Option 2: On Computer
+ 1. Download a patching utility (e.g., **DeltaPatcher** for Windows or use **xdelta3** in the terminal).
+ 2. Open your patching tool:
+   * **Original file / ROM:** Select your clean *Animal Crossing: Wild World* NDS ROM.
+   * **Patch:** Select the downloaded mod patch file (acww-deluxe.xdelta).
+   * **Apply Patch:** Click the apply button to generate your modified ROM (rom_final.nds).
+ 3. Run the patched ROM on your Nintendo DS flashcard (like R4) or an emulator (like MelonDS, DeSmuME, or DrStic).
 ## 📁 Repository Structure
  * /patches/ - Contains the versioned XDelta patch files.
  * /tools/ - Useful utilities and documentation for the modding process.
